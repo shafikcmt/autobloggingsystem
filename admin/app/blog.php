@@ -29,7 +29,7 @@ $read = $db->select($query);
               ?>
             <div class="col-md-3 mg-t-20">
               <div class="card bd-0">
-                <div class="card-header card-header-default bg-warning">
+                <div class="card-header bg-warning">
                 <?php echo $row['title']; ?>
                 </div><!-- card-header -->
                 <div class="card-body bd bd-t-0">

@@ -270,7 +270,7 @@
                     <div class="card-body">
                         <div class="form-group">
                             <div class="form-label">Content</div>
-                            <input id="summernote" name="content" type="text">
+                            <textarea id="summernote" name="content" type="text"></textarea>
                         </div>
                     </div>
              
